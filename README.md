@@ -3,7 +3,7 @@
 - 👀 eu estou interessada em aprender a programarnovas linguagens.
 - 🌱 eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How t
 
 <!---
 gbzy22/gbzy22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
