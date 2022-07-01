@@ -2,8 +2,8 @@
 - meu email de contato gabrielly.fernandes.martins@escola.pr.gov.br
 - 👀 eu estou interessada em aprender a programarnovas linguagens.
 - 🌱 eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
-- 💞️ I’m looking to collaborate on ...
-- 📫 How t
+- 💞️ 
+- 📫 
 
 <!---
 gbzy22/gbzy22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
